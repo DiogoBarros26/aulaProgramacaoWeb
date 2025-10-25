@@ -14,17 +14,15 @@ body {
 }
 
 
-/* ==========================
-   Header e Navegação
-   ========================== */
+/* 
+   Header e Navegação */
 header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-<<<<<<< HEAD
     padding: 1rem 0;
-=======
+
     padding: 1rem 0;/*16px*/
->>>>>>> b7c609e2247b6f04e4f8a15fb94d1f0d3355f90b
+
     position: fixed;
     width: 100%;
     top: 0;
@@ -39,11 +37,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-<<<<<<< HEAD
     padding: 0 2rem;
-=======
     padding: 0 2rem;/*32px*/
->>>>>>> b7c609e2247b6f04e4f8a15fb94d1f0d3355f90b
 }
 
 
@@ -129,7 +124,6 @@ nav a {
     margin-bottom: 2rem;
 }
 
-<<<<<<< HEAD
 .about{
      background:linear-gradient( rgba(118, 75, 162, 0.8),rgba(102, 126, 234, 0.8));
 
@@ -161,10 +155,6 @@ nav a {
     text-align: start;
     color: white;
 }
-
-
-=======
->>>>>>> b7c609e2247b6f04e4f8a15fb94d1f0d3355f90b
 
 
 .cta-buttons {
@@ -280,9 +270,9 @@ form legend {
 
 
 footer {
+     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     text-align: center;
     padding: 2rem;
-    background: #f5f5f5;
     margin-top: 3rem;
 }
 

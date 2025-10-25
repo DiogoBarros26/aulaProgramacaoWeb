@@ -7,7 +7,7 @@ function togglemenu(){
 /* serve pra deixar o Scroll mais leve*/
 function scrollActive(sectionId){
     const section = docemunt.getElementById('sectionId');
-
+ 
     if(!section) return;
 
     const headerHeight = 70; 
